@@ -54,3 +54,14 @@ Click Start to begin monitoring. The timer countdown will be shown.
 Use command in terminal:
 python screen_timer [optional arg sleep_minutes] [optional arg off_minutes]
 
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this software, even for commercial purposes, as long as the original license and copyright notice are included.
+
+See the [LICENSE](LICENSE) file for full details.
+
+
