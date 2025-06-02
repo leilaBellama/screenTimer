@@ -29,4 +29,28 @@ A Windows-based utility that monitors keyboard activity and automatically turns 
 3. The GUI provides controls to start/stop monitoring and update time settings.
 4. Default sleep and off minutes can be stored for future use.
 
+### 🖥️ Using the GUI
+
+1. Launch the GUI:
+   ```bash
+   python screen_sleep_gui.py
+
+2. In the app:
+
+Set "Sleep After": Minutes of inactivity before screen turns off
+
+Set "Off After": Minutes to restart program before the system suspends
+
+3. Optional:
+
+Check the "Default" box to save your current setting for future runs
+
+Click Start to begin monitoring. The timer countdown will be shown.
+
+4. To stop, click Stop.
+
+## 🖥️ Run Without the GUI
+
+Use command in terminal:
+python screen_timer [optional arg sleep_minutes] [optional arg off_minutes]
 
